@@ -1,0 +1,16 @@
+{
+  "name": "kook",
+  "version": "1.0.1",
+  "description": "demo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/skyLanne/testelectron.git",
+  "author": "",
+  "license": "ISC",
+  "author": "GitHub",
+  "devDependencies": {
+    "electron": "^1.4.13"
+  }
+}
